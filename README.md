@@ -1,2 +1,3 @@
-# nft-presale
-A ERC721 Token Presale smart contract on Solidity.
+# NFT-Smart-Contract
+
+A NFT Presale Smart Contract on solidity.
